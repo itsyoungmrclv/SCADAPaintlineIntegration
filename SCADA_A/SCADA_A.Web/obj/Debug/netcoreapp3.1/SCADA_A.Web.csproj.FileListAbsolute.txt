@@ -1,0 +1,328 @@
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\SCADA_A.Web.exe
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\SCADA_A.Web.deps.json
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\SCADA_A.Web.runtimeconfig.json
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\SCADA_A.Web.runtimeconfig.dev.json
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\SCADA_A.Web.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\SCADA_A.Web.pdb
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\SCADA_A.Web.csproj.AssemblyReference.cache
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\SCADA_A.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\SCADA_A.Web.AssemblyInfoInputs.cache
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\SCADA_A.Web.AssemblyInfo.cs
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\SCADA_A.Web.csproj.CoreCompileInputs.cache
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\SCADA_A.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\staticwebassets\SCADA_A.Web.StaticWebAssets.Manifest.cache
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\SCADA_A.Web.RazorTargetAssemblyInfo.cache
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\SCADA_A.Web.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\SCADA_A.Web.pdb
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\SCADA_A.Web.genruntimeconfig.cache
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\SCADA_A.Datos.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\SCADA_A.Entidades.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\SCADA_A.Datos.pdb
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\SCADA_A.Entidades.pdb
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\SCADA_A.Web.csproj.CopyComplete
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\SCADA_A.Web.Views.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\SCADA_A.Web.Views.pdb
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\SCADA_A.Web.RazorAssemblyInfo.cache
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\SCADA_A.Web.RazorAssemblyInfo.cs
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\SCADA_A.Web.TagHelpers.input.cache
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\SCADA_A.Web.TagHelpers.output.cache
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\SCADA_A.Web.RazorCoreGenerate.cache
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\Razor\Views\Colors\Create.cshtml.g.cs
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\Razor\Views\Colors\Delete.cshtml.g.cs
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\Razor\Views\Colors\Details.cshtml.g.cs
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\Razor\Views\Colors\Edit.cshtml.g.cs
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\Razor\Views\Colors\Index.cshtml.g.cs
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\SCADA_A.Web.RazorTargetAssemblyInfo.cs
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\SCADA_A.Web.Views.pdb
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\SCADA_A.Web.exe
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\SCADA_A.Web.deps.json
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\SCADA_A.Web.runtimeconfig.json
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\SCADA_A.Web.runtimeconfig.dev.json
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\SCADA_A.Web.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\SCADA_A.Web.pdb
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\SCADA_A.Web.Views.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\SCADA_A.Web.Views.pdb
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\SCADA_A.Datos.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\SCADA_A.Entidades.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\SCADA_A.Datos.pdb
+C:\Project\Web\SCADA_A\SCADA_A.Web\bin\Debug\netcoreapp3.1\SCADA_A.Entidades.pdb
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\SCADA_A.Web.csproj.AssemblyReference.cache
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\SCADA_A.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\SCADA_A.Web.AssemblyInfoInputs.cache
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\SCADA_A.Web.AssemblyInfo.cs
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\SCADA_A.Web.csproj.CoreCompileInputs.cache
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\SCADA_A.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\SCADA_A.Web.RazorAssemblyInfo.cache
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\SCADA_A.Web.RazorAssemblyInfo.cs
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\staticwebassets\SCADA_A.Web.StaticWebAssets.Manifest.cache
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\SCADA_A.Web.TagHelpers.input.cache
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\SCADA_A.Web.TagHelpers.output.cache
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\SCADA_A.Web.RazorCoreGenerate.cache
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\Razor\Views\Colors\Create.cshtml.g.cs
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\Razor\Views\Colors\Delete.cshtml.g.cs
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\Razor\Views\Colors\Details.cshtml.g.cs
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\Razor\Views\Colors\Edit.cshtml.g.cs
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\Razor\Views\Colors\Index.cshtml.g.cs
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\SCADA_A.Web.RazorTargetAssemblyInfo.cache
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\SCADA_A.Web.RazorTargetAssemblyInfo.cs
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\SCADA_A.Web.Views.pdb
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\SCADA_A.Web.csproj.CopyComplete
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\SCADA_A.Web.dll
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\SCADA_A.Web.pdb
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\SCADA_A.Web.genruntimeconfig.cache
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\staticwebassets\SCADA_A.Web.StaticWebAssets.Pack.cache
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.SCADA_A.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.SCADA_A.Web.props
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.SCADA_A.Web.props
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.SCADA_A.Web.props
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\Razor\Views\Kits\Create.cshtml.g.cs
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\Razor\Views\Kits\Delete.cshtml.g.cs
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\Razor\Views\Kits\Details.cshtml.g.cs
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\Razor\Views\Kits\Edit.cshtml.g.cs
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\Razor\Views\Kits\Index.cshtml.g.cs
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\Razor\Views\KitComponentes\Create.cshtml.g.cs
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\Razor\Views\KitComponentes\Delete.cshtml.g.cs
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\Razor\Views\KitComponentes\Details.cshtml.g.cs
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\Razor\Views\KitComponentes\Edit.cshtml.g.cs
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\Razor\Views\KitComponentes\Index.cshtml.g.cs
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\Razor\Views\OrdenKits\Create.cshtml.g.cs
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\Razor\Views\OrdenKits\Delete.cshtml.g.cs
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\Razor\Views\OrdenKits\Details.cshtml.g.cs
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\Razor\Views\OrdenKits\Edit.cshtml.g.cs
+C:\Project\Web\SCADA_A\SCADA_A.Web\obj\Debug\netcoreapp3.1\Razor\Views\OrdenKits\Index.cshtml.g.cs

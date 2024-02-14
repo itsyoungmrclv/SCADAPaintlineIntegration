@@ -1,0 +1,20 @@
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Entidades\obj\Debug\netcoreapp3.1\SCADA_A.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Entidades\obj\Debug\netcoreapp3.1\SCADA_A.Entidades.AssemblyInfoInputs.cache
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Entidades\obj\Debug\netcoreapp3.1\SCADA_A.Entidades.AssemblyInfo.cs
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Entidades\obj\Debug\netcoreapp3.1\SCADA_A.Entidades.csproj.CoreCompileInputs.cache
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Entidades\bin\Debug\netcoreapp3.1\SCADA_A.Entidades.deps.json
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Entidades\bin\Debug\netcoreapp3.1\SCADA_A.Entidades.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Entidades\bin\Debug\netcoreapp3.1\SCADA_A.Entidades.pdb
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Entidades\obj\Debug\netcoreapp3.1\SCADA_A.Entidades.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Entidades\obj\Debug\netcoreapp3.1\SCADA_A.Entidades.pdb
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Entidades\obj\Debug\netcoreapp3.1\SCADA_A.Entidades.csproj.AssemblyReference.cache
+C:\Project\Web\SCADA_A\SCADA_A.Entidades\bin\Debug\netcoreapp3.1\SCADA_A.Entidades.deps.json
+C:\Project\Web\SCADA_A\SCADA_A.Entidades\bin\Debug\netcoreapp3.1\SCADA_A.Entidades.dll
+C:\Project\Web\SCADA_A\SCADA_A.Entidades\bin\Debug\netcoreapp3.1\SCADA_A.Entidades.pdb
+C:\Project\Web\SCADA_A\SCADA_A.Entidades\obj\Debug\netcoreapp3.1\SCADA_A.Entidades.csproj.AssemblyReference.cache
+C:\Project\Web\SCADA_A\SCADA_A.Entidades\obj\Debug\netcoreapp3.1\SCADA_A.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Web\SCADA_A\SCADA_A.Entidades\obj\Debug\netcoreapp3.1\SCADA_A.Entidades.AssemblyInfoInputs.cache
+C:\Project\Web\SCADA_A\SCADA_A.Entidades\obj\Debug\netcoreapp3.1\SCADA_A.Entidades.AssemblyInfo.cs
+C:\Project\Web\SCADA_A\SCADA_A.Entidades\obj\Debug\netcoreapp3.1\SCADA_A.Entidades.csproj.CoreCompileInputs.cache
+C:\Project\Web\SCADA_A\SCADA_A.Entidades\obj\Debug\netcoreapp3.1\SCADA_A.Entidades.dll
+C:\Project\Web\SCADA_A\SCADA_A.Entidades\obj\Debug\netcoreapp3.1\SCADA_A.Entidades.pdb

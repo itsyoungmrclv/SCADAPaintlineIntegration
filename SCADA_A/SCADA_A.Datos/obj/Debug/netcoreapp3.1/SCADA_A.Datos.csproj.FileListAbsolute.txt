@@ -1,0 +1,32 @@
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Datos\bin\Debug\netcoreapp3.1\SCADA_A.Datos.deps.json
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Datos\bin\Debug\netcoreapp3.1\SCADA_A.Datos.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Datos\bin\Debug\netcoreapp3.1\SCADA_A.Datos.pdb
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Datos\obj\Debug\netcoreapp3.1\SCADA_A.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Datos\obj\Debug\netcoreapp3.1\SCADA_A.Datos.AssemblyInfoInputs.cache
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Datos\obj\Debug\netcoreapp3.1\SCADA_A.Datos.AssemblyInfo.cs
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Datos\obj\Debug\netcoreapp3.1\SCADA_A.Datos.csproj.CoreCompileInputs.cache
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Datos\obj\Debug\netcoreapp3.1\SCADA_A.Datos.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Datos\obj\Debug\netcoreapp3.1\SCADA_A.Datos.pdb
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Datos\bin\Debug\netcoreapp3.1\SCADA_A.Datos.runtimeconfig.json
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Datos\bin\Debug\netcoreapp3.1\SCADA_A.Datos.runtimeconfig.dev.json
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Datos\obj\Debug\netcoreapp3.1\SCADA_A.Datos.csproj.AssemblyReference.cache
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Datos\obj\Debug\netcoreapp3.1\SCADA_A.Datos.genruntimeconfig.cache
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Datos\bin\Debug\netcoreapp3.1\SCADA_A.Entidades.dll
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Datos\bin\Debug\netcoreapp3.1\SCADA_A.Entidades.pdb
+C:\ASP Net Core Vuejs\SCADA_A\SCADA_A.Datos\obj\Debug\netcoreapp3.1\SCADA_A.Datos.csproj.CopyComplete
+C:\Project\Web\SCADA_A\SCADA_A.Datos\bin\Debug\netcoreapp3.1\SCADA_A.Datos.deps.json
+C:\Project\Web\SCADA_A\SCADA_A.Datos\bin\Debug\netcoreapp3.1\SCADA_A.Datos.runtimeconfig.json
+C:\Project\Web\SCADA_A\SCADA_A.Datos\bin\Debug\netcoreapp3.1\SCADA_A.Datos.runtimeconfig.dev.json
+C:\Project\Web\SCADA_A\SCADA_A.Datos\bin\Debug\netcoreapp3.1\SCADA_A.Datos.dll
+C:\Project\Web\SCADA_A\SCADA_A.Datos\bin\Debug\netcoreapp3.1\SCADA_A.Datos.pdb
+C:\Project\Web\SCADA_A\SCADA_A.Datos\bin\Debug\netcoreapp3.1\SCADA_A.Entidades.dll
+C:\Project\Web\SCADA_A\SCADA_A.Datos\bin\Debug\netcoreapp3.1\SCADA_A.Entidades.pdb
+C:\Project\Web\SCADA_A\SCADA_A.Datos\obj\Debug\netcoreapp3.1\SCADA_A.Datos.csproj.AssemblyReference.cache
+C:\Project\Web\SCADA_A\SCADA_A.Datos\obj\Debug\netcoreapp3.1\SCADA_A.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Web\SCADA_A\SCADA_A.Datos\obj\Debug\netcoreapp3.1\SCADA_A.Datos.AssemblyInfoInputs.cache
+C:\Project\Web\SCADA_A\SCADA_A.Datos\obj\Debug\netcoreapp3.1\SCADA_A.Datos.AssemblyInfo.cs
+C:\Project\Web\SCADA_A\SCADA_A.Datos\obj\Debug\netcoreapp3.1\SCADA_A.Datos.csproj.CoreCompileInputs.cache
+C:\Project\Web\SCADA_A\SCADA_A.Datos\obj\Debug\netcoreapp3.1\SCADA_A.Datos.csproj.CopyComplete
+C:\Project\Web\SCADA_A\SCADA_A.Datos\obj\Debug\netcoreapp3.1\SCADA_A.Datos.dll
+C:\Project\Web\SCADA_A\SCADA_A.Datos\obj\Debug\netcoreapp3.1\SCADA_A.Datos.pdb
+C:\Project\Web\SCADA_A\SCADA_A.Datos\obj\Debug\netcoreapp3.1\SCADA_A.Datos.genruntimeconfig.cache
